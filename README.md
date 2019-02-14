@@ -9,5 +9,7 @@ List of software that is needed:
   3. Outlook, e-mail client
   4. Outlook, exchange service for calendar.
   5. Office alternative.
+  6. Trello
+  7. Sharepoint access
   
   
